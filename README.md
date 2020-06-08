@@ -1,6 +1,5 @@
-# creating-a-react-app-from-scratch
+# react-youtube
 
-This is a simple react implementation, as seen in [this article](https://blog.usejournal.com/creating-a-react-app-from-scratch-f3c693b84658)
 
 ## Getting Started
 
