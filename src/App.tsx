@@ -7,10 +7,10 @@ import "./css/index.css";
 
 function App (): JSX.Element {
   return (
-    <div className="App">
+    <main className="App">
       <Header />
       <Container />
-    </div>
+    </main>
   )
 }
 

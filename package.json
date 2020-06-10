@@ -1,5 +1,5 @@
 {
-  "name": "create-react-app-from-scratch",
+  "name": "react-youtube",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "start": "webpack-dev-server --mode development"
   },
   "keywords": [],
-  "author": "",
+  "author": "Max",
   "license": "ISC",
   "devDependencies": {
     "@babel/cli": "^7.1.0",
@@ -25,10 +25,17 @@
     "webpack-dev-server": "^3.9.0"
   },
   "dependencies": {
+    "@emotion/core": "^10.0.28",
+    "@emotion/styled": "^10.0.27",
+    "@types/lodash": "^4.14.155",
+    "@types/react-redux": "^7.1.9",
     "babel-plugin-react-css-modules": "^5.2.6",
+    "lodash": "^4.17.15",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
     "react-hot-loader": "^4.3.11",
-    "redux": "^4.0.5"
+    "react-redux": "^7.2.0",
+    "redux": "^4.0.5",
+    "redux-thunk": "^2.3.0"
   }
 }
