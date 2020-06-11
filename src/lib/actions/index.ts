@@ -5,7 +5,7 @@ export const UPDATE_MORE_VIDEOS = 'UPDATE_MORE_VIDEOS'
 export const RESET_SEARCH = 'RESET_SEARCH'
 import { isEmpty, isEqual } from 'lodash'
 import { DefaultRootState } from '../../types'
-import config from '../../config'
+import config from '../../../config'
 
 const { API_KEY } = config
 
