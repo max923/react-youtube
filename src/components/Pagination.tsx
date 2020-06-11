@@ -12,7 +12,7 @@ interface IPageSquareProps {
 }
 function Pagination(props: IProps): JSX.Element {
   const { currentPage } = props
-  const totalPage = [1,2,3,4]
+  const totalPage = [1,2,3,4,5,6]
   return (
     <Wrapper>
       {

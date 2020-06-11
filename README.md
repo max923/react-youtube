@@ -1,5 +1,4 @@
-# react-youtube
-
+# React YouTube
 
 ## Getting Started
 
@@ -15,5 +14,10 @@ To start the server and start hacking, run
 npm start
 ```
 
-This starter uses webpack-dev-server to spin up an Express server with Hot-Reloading capability. Changes to code in `.src` should cause pages to reload.
+### Modify API_KEY
+
+You can add your API_KEY in `config.ts`
+
+
+
 

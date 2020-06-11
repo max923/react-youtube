@@ -1,3 +1,3 @@
 export default {
-  API_KEY: 'AIzaSyCn76ncYd5oFnAZ7y_gkJIMFH0Y08wBNcA'
+  API_KEY: 'YOUR_API_KEY'
 }

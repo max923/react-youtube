@@ -20,7 +20,6 @@ function Header(props: IProps): JSX.Element {
     }, 1000)
   )
   function handleChange(e: InputElem): void {
-    console.log(e.currentTarget.value)
     setSearchValue(e.currentTarget.value)
   }
   useEffect(() => {
